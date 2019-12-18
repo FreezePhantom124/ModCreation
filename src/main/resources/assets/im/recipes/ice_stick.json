@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        " P ",
+        " P "
+    ],
+    
+    "key":
+    {
+        "P": {
+            "item": "minecraft:packed_ice"
+        }
+    },
+    
+    "result":
+    {
+        "item": "im:ice_stick",
+        "count": 4
+    }
+}

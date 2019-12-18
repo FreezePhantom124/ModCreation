@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "im:ice_diamond_block"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "im:ice_diamond",
+        "count": 9
+    }
+}

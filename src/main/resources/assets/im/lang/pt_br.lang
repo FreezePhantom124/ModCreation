@@ -1,0 +1,48 @@
+//Items
+item.ice_diamond.name=Diamante de Gelo
+item.ice_stick.name=Graveto de Gelo
+Item.ender_dust.name=Po de Ender
+
+//Blocks
+tile.ice_diamond_ore.name=Minerio de Diamante de Gelo
+tile.ice_diamond_block.name=Bloco de Diamante de Gelo
+tile.ender_ore.name=Minerio de Ender
+
+//Machines
+tile.cooler.name=Cooler
+
+//Entities
+entity.ice_mage.name=Mago do Gelo
+
+//Tree Blocks
+tile.ice_planks.name=Tabuas de Gelo
+tile.ice_log.name=Tronco de Gelo
+tile.ice_leaves.name=Folhas de Gelo
+tile.ice_sapling.name=Muda de Arvore de Gelo
+
+tile.fire_planks.name=Tabuas de Fogo
+tile.fire_log.name=Tronco de Fogo
+tile.fire_leaves.name=Folhas de Fogo
+tile.fire_sapling.name=Muda de Arvore de Fogo
+
+//Tools
+item.ice_diamond_sword.name=Espada de Diamante de Gelo
+item.ice_diamond_shovel.name=Pa de Diamante de Gelo
+item.ice_diamond_pickaxe.name=Picareta de Diamante de Gelo
+item.ice_diamond_axe.name=Machado de Diamante de Gelo
+item.ice_diamond_hoe.name=Enxada de Diamante de Gelo
+
+//Armor
+item.ice_diamond_helmet.name=Capacete de Diamante de Gelo
+item.ice_diamond_chestplate.name=Peitoral de Diamante de Gelo
+item.ice_diamond_leggings.name=Calças de Diamante de Gelo
+item.ice_diamond_boots.name=Botas de Diamante de Gelo
+
+//Foods
+item.ice_beef.name=Bife Congelado
+
+//Tabs
+itemGroup.icemodtab=Ice Mod
+
+//Containers
+container.cooler=Cooler

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "IPI",
+        "PDP",
+        "IPI"
+    ],
+    
+    "key":
+    {
+        "I": {
+            "item": "minecraft:ice"
+        },
+        "P": {
+            "item": "minecraft:packed_ice"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        }
+    },
+    
+    "result":
+    {
+        "item": "im:ice_diamond",
+        "count": 1
+    }
+}

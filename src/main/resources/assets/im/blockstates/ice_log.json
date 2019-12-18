@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y": { "model": "im:ice_log" },
+        "axis=z": { "model": "im:ice_log", "x": 90 },
+        "axis=x": { "model": "im:ice_log", "x": 90, "y": 90},
+        "axis=none": { "model": "im:ice_log" }
+    }
+}

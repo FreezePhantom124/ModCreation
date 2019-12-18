@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DD ",
+        " I ",
+        " I "
+    ],
+    
+    "key":
+    {
+        "D": {
+            "item": "im:ice_diamond"
+        },
+        "I": {
+            "item": "im:ice_stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "im:ice_diamond_hoe",
+        "count": 1
+    }
+}

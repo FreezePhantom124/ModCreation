@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "im:blocks/fire_sapling"
+    }
+}

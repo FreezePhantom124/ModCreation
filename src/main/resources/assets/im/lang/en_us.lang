@@ -1,0 +1,48 @@
+//Items
+item.ice_diamond.name=Ice Diamond
+item.ice_stick.name=Ice Stick
+item.ender_dust.name=Ender Dust
+
+//Blocks
+tile.ice_diamond_ore.name=Ice Diamond Ore
+tile.ice_diamond_block.name=Ice Diamond Block
+tile.ender_ore.name=Ender Ore
+
+//Machines
+tile.cooler.name=Cooler
+
+//Entities
+entity.ice_mage.name=Ice Mage
+
+//Tree Blocks
+tile.ice_planks.name=Ice Planks
+tile.ice_log.name=Ice Log
+tile.ice_leaves.name=Ice Leaves
+tile.ice_sapling.name=Ice Sapling
+
+tile.fire_planks.name=Fire Planks
+tile.fire_log.name=Fire Log
+tile.fire_leaves.name=Fire Leaves
+tile.fire_sapling.name=Fire Sapling
+
+//Tools
+item.ice_diamond_sword.name=Ice Diamond Sword
+item.ice_diamond_shovel.name=Ice Diamond Shovel
+item.ice_diamond_pickaxe.name=Ice Diamond Pickaxe
+item.ice_diamond_axe.name=Ice Diamond Axe
+item.ice_diamond_hoe.name=Ice Diamond Hoe
+
+//Armor
+item.ice_diamond_helmet.name=Ice Diamond Helmet
+item.ice_diamond_chestplate.name=Ice Diamond Chestplate
+item.ice_diamond_leggings.name=Ice Diamond Leggings
+item.ice_diamond_boots.name=Ice Diamond Boots
+
+//Foods
+item.ice_beef.name=Ice Beef
+
+//Tabs
+itemGroup.icemodtab=Ice Mod
+
+//Containers
+container.cooler=Cooler

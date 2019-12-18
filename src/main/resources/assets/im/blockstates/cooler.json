@@ -1,0 +1,13 @@
+{
+    "variants":
+    {
+        "freezing=false,facing=north": { "model": "im:cooler" },
+        "freezing=false,facing=east": { "model": "im:cooler" , "y": 90},
+        "freezing=false,facing=south": { "model": "im:cooler" , "y": 180},
+        "freezing=false,facing=west": { "model": "im:cooler" , "y": 270},
+        "freezing=true,facing=north": { "model": "im:cooler_on" },
+        "freezing=true,facing=east": { "model": "im:cooler_on" , "y": 90},
+        "freezing=true,facing=south": { "model": "im:cooler_on" , "y": 180},
+        "freezing=true,facing=west": { "model": "im:cooler_on" , "y": 270}
+    }
+}

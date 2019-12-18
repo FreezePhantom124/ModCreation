@@ -1,0 +1,13 @@
+{
+   "parent": "block/orientable",
+   "textures":
+   {
+       "particle": "im:blocks/cooler_desligado",
+       "up": "im:blocks/cooler_desligado",
+       "down": "im:blocks/cooler_desligado",
+       "north": "im:blocks/cooler_desligado",
+       "east": "im:blocks/cooler_lado1",
+       "south": "im:blocks/cooler_lado3",
+       "west": "im:blocks/cooler_lado2"
+   }
+}

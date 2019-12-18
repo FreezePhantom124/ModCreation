@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DDD",
+        "DDD",
+        "DDD"
+    ],
+    
+    "key":
+    {
+        "D": {
+            "item": "im:ice_diamond"
+        }
+    },
+    
+    "result":
+    {
+        "item": "im:ice_diamond_block",
+        "count": 1
+    }
+}

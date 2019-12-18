@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "im:blocks/ice_sapling"
+    }
+}

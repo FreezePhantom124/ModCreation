@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DDD",
+        " I ",
+        " I "
+    ],
+    
+    "key":
+    {
+        "D": {
+            "item": "im:ice_diamond"
+        },
+        "I": {
+            "item": "im:ice_stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "im:ice_diamond_pickaxe",
+        "count": 1
+    }
+}
